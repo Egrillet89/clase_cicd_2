@@ -2,7 +2,7 @@ from hack import restar, suma, lista, texto, texto_upper
 
 
 def test_suma():
-    assert 1 + 1  == 2
+    assert 1 + 1  == 4
 
 def test_restar():
     assert 2 - 1 == 1
